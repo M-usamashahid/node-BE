@@ -1,0 +1,10 @@
+node_modules
+*.idea
+*.zip
+*.rar
+server.js
+log/*
+*.log
+.env
+npm-debug.log
+.DS_Store

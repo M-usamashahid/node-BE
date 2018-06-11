@@ -1,0 +1,13 @@
+{
+  "firstName"           : "First",
+  "lastName"            : "User",
+  "email"               : "admin@admin.com",
+  "password"            : "123",
+  "avatar_url"          : "",
+  "url"                 : "",
+  "skypeId"             : "",
+  "socialNetworkURL"    : "",
+  "description"         : "",
+  "address"             : "",
+  "isAdmin"             : true
+}
